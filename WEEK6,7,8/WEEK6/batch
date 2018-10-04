@@ -1,0 +1,5 @@
+fdisk
+load --init $HOME/myexpos/WEEK6,7,8/WEEK6/squares.xsm
+load --int=10 $HOME/myexpos/WEEK6,7,8/WEEK6/haltprog.xsm
+load --exhandler $HOME/myexpos/WEEK6,7,8/WEEK6/haltprog.xsm
+load --os $HOME/myexpos/WEEK6,7,8/WEEK6/assign6.xsm

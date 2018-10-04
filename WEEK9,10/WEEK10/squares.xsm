@@ -28,6 +28,7 @@ PUSH R0
 
 //  pushing space for return value
 PUSH R0
+BRKP
 INT 7
 
 // poping out return value and ignore
